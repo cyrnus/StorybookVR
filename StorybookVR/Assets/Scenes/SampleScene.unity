@@ -20258,7 +20258,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 894280367}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e988983f96fe1dd48800bcdfc82f23e9, type: 3}
   m_Name: 
@@ -35339,8 +35339,12 @@ MonoBehaviour:
   m_UpdateTrackingType: 1
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
+<<<<<<< HEAD
   m_ModelPrefab: {fileID: 5341320894730402586, guid: 83e0550dcbd4c2a4dab1c3e259dcf808,
     type: 3}
+=======
+  m_ModelPrefab: {fileID: 0}
+>>>>>>> parent of 66381dd (added oculus integration)
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0
